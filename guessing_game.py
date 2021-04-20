@@ -1,6 +1,6 @@
 correct_guess = 4
 
-guess = input("Guess a number:")
+guess = input("Guess a number: ")
 
 while True:
 
